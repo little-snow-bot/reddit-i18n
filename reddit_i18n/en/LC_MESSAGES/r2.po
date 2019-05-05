@@ -10384,3 +10384,37 @@ msgstr "create your own snoovatar [here](/user/%(username)s/snoo)"
 msgid "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)"
 msgstr "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)"
 
+
+# SAIDIT
+msgid "insightful"
+msgstr "insightful"
+
+msgid "fun"
+msgstr "fun"
+
+msgid "vote insightful"
+msgstr "vote insightful"
+
+msgid "vote fun"
+msgstr "vote fun"
+
+msgid "%(percent)s fun"
+msgstr "%(percent)s fun"
+
+msgid "%(percent)s insightful"
+msgstr "%(percent)s insightful"
+
+msgid "from-domain"
+msgstr "from"
+
+msgid "don't show me submissions after I've voted them insightful"
+msgstr "don't show me submissions after I've voted them insightful"
+
+msgid "don't show me submissions after I've voted them fun"
+msgstr "don't show me submissions after I've voted them fun"
+
+msgid "most insightful links"
+msgstr "most insightful links"
+
+msgid "most fun links"
+msgstr "most fun links"

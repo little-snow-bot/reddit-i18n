@@ -11611,3 +11611,37 @@ msgstr "Bisher keine Diskussionen. [Beginne eine]({url})"
 msgid "one or two sentences (120 characters) saying what this thread is about"
 msgstr "einen oder mehrere Sätze (120 Zeichen), um dein Thema zu beschreiben"
 
+
+# SAIDIT
+msgid "insightful"
+msgstr "Aufschlussreich"
+
+msgid "fun"
+msgstr "Spaßig"
+
+msgid "vote insightful"
+msgstr "Votum Aufschlussreich"
+
+msgid "vote fun"
+msgstr "Votum Spaßig"
+
+msgid "%(percent)s insightful"
+msgstr "%(percent)s Aufschlussreich"
+
+msgid "%(percent)s fun"
+msgstr "%(percent)s Spaßig"
+
+msgid "from-domain"
+msgstr "via"
+
+msgid "don't show me submissions after I've voted them insightful"
+msgstr "Verstecke Einreichungen, nachdem ich Votum Aufschlussreich"
+
+msgid "don't show me submissions after I've voted them fun"
+msgstr "Verstecke Einreichungen, nachdem ich Votum Spaßig"
+
+msgid "most insightful links"
+msgstr "Aufschlussreich Links"
+
+msgid "most fun links"
+msgstr "Spaßig Links"
