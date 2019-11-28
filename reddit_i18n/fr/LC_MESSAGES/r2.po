@@ -11620,3 +11620,36 @@ msgstr "pas encore de discussion. [Commencer en une]({url})"
 msgid "one or two sentences (120 characters) saying what this thread is about"
 msgstr "une ou deux phrases (120 caractères) pour dire de quoi parle ce post"
 
+# SAIDIT
+msgid "insightful"
+msgstr "pertinent"
+
+msgid "fun"
+msgstr "amusant"
+
+msgid "vote insightful"
+msgstr "voter pertinent"
+
+msgid "vote fun"
+msgstr "voter amusant"
+
+msgid "%(percent)s insightful"
+msgstr "%(percent)s pertinent"
+
+msgid "%(percent)s fun"
+msgstr "%(percent)s amusant"
+
+msgid "from-domain"
+msgstr "depuis"
+
+msgid "don't show me submissions after I've voted them insightful"
+msgstr "ne plus me montrer les sujets que j'ai voté pertinantes"
+
+msgid "don't show me submissions after I've voted them fun"
+msgstr "ne plus me montrer les sujets que j'ai voté amusants"
+
+msgid "most insightful links"
+msgstr "liens les plus pertinents"
+
+msgid "most fun links"
+msgstr "liens les plus amusants" 
