@@ -10418,3 +10418,9 @@ msgstr "most insightful links"
 
 msgid "most fun links"
 msgstr "most fun links"
+
+msgid "find popular subs"
+msgstr "find popular subs"
+
+msgid "find new subs"
+msgstr "find new subs"
