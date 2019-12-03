@@ -11653,3 +11653,9 @@ msgstr "liens les plus pertinents"
 
 msgid "most fun links"
 msgstr "liens les plus amusants" 
+
+msgid "find popular subs"
+msgstr "les plus populaires"
+
+msgid "find new subs"
+msgstr "les plus récents"
