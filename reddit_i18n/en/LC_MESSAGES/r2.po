@@ -10424,3 +10424,63 @@ msgstr "find popular subs"
 
 msgid "find new subs"
 msgstr "find new subs"
+
+msgid "show thumbnails next to links?"
+msgstr "show thumbnails next to links?"
+
+msgid "use each sub's media preferences"
+msgstr "use each sub's media preferences"
+
+msgid "Auto-expand media previews?"
+msgstr "Auto-expand media previews?"
+
+msgid "suggested sorts may be set by community moderators for specific threads or subs, like Q&As"
+msgstr "suggested sorts may be set by community moderators for specific threads or subs, like Q&As"
+
+msgid "notify me when people say my username in comments"
+msgstr "notify me when people say my username in comments"
+
+msgid "allow subs to show me custom themes"
+msgstr "allow subs to show me custom themes"
+
+msgid "Night mode"
+msgstr "Night mode"
+
+msgid "Day mode"
+msgstr "Day mode"
+
+msgid "required to view some subs"
+msgstr "required to view some subs"
+
+msgid "reset subscriptions"
+msgstr "reset subscriptions"
+
+msgid "enable chat"
+msgstr "enable chat"
+
+msgid "default (300px)"
+msgstr "default (300px)"
+
+msgid "small (380px)"
+msgstr "small (380px)"
+
+msgid "medium (480px)"
+msgstr "medium (480px)"
+
+msgid "large (600px)"
+msgstr "large (600px)"
+
+msgid "extra large (780px)"
+msgstr "extra large (780px)"
+
+msgid "to view saidit with only submissions from your friends, use [/s/friends](%s)"
+msgstr "to view saidit with only submissions from your friends, use [/s/friends](%s)"
+
+msgid "deactivate your saidit account"
+msgstr "deactivate your saidit account"
+
+msgid "Night mode"
+msgstr "Night mode"
+
+
+
