@@ -11659,3 +11659,57 @@ msgstr "les plus populaires"
 
 msgid "find new subs"
 msgstr "les plus récents"
+
+msgid "show thumbnails next to links?"
+msgstr "Montrer les miniatures à côté des liens ?"
+
+msgid "use each sub's media preferences"
+msgstr "Utiliser les préférences médias de mon sub"
+
+msgid "Auto-expand media previews?"
+msgstr "Prévisualiser automatiquement les médias ?"
+
+msgid "suggested sorts may be set by community moderators for specific threads or subs, like Q&As"
+msgstr "les modérateurs de commutés peuvent avoir crées des tris pour des sujets spécifiques, comme les Questions/Réponses par exemple"
+
+msgid "notify me when people say my username in comments"
+msgstr "recevoir une notification si mon pseudo est cité dans un commentaire"
+
+msgid "allow subs to show me custom themes"
+msgstr "autoriser les communautés à utiliser des thèmes personalisés"
+
+msgid "Night mode"
+msgstr "Mode sombre"
+
+msgid "Day mode"
+msgstr "Mode clair"
+
+msgid "required to view some subs"
+msgstr "requis pour visiter certaines communautés"
+
+msgid "reset subscriptions"
+msgstr "réinitialiser mes sousciptions"
+
+msgid "enable chat"
+msgstr "autoriser le chat"
+
+msgid "default (300px)"
+msgstr "par défaut (300px)"
+
+msgid "small (380px)"
+msgstr "petit (380px)"
+
+msgid "medium (480px)"
+msgstr "moyen (480px)"
+
+msgid "large (600px)"
+msgstr "large (600px)"
+
+msgid "extra large (780px)"
+msgstr "extra-large (780px)"
+
+msgid "to view saidit with only submissions from your friends, use [/s/friends](%s)"
+msgstr "Utilisez [/s/friends](%s) pour voir uniquement les publications de vos amis"
+
+msgid "deactivate your saidit account"
+msgstr "Désactiver mon compte SaidIt"
