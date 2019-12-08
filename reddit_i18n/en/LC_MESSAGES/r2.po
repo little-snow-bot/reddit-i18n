@@ -10478,9 +10478,3 @@ msgstr "to view saidit with only submissions from your friends, use [/s/friends]
 
 msgid "deactivate your saidit account"
 msgstr "deactivate your saidit account"
-
-msgid "Night mode"
-msgstr "Night mode"
-
-
-
