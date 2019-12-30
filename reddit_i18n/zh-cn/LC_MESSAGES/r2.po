@@ -11749,3 +11749,66 @@ msgstr "还没有讨论。[开始讨论]({url})"
 msgid "one or two sentences (120 characters) saying what this thread is about"
 msgstr "一到两个句子（120个字符）介绍直播帖的主题内容"
 
+
+
+msgid "insightful" msgstr "有见地"
+
+msgid "fun" msgstr "有趣"
+
+msgid "vote insightful" msgstr "投票有见地"
+
+msgid "vote fun" msgstr "投票有趣"
+
+msgid "%(percent)s insightful" msgstr "%(percent)有见地"
+
+msgid "%(percent)s fun" msgstr "%(percent)有趣"
+
+msgid "from-domain" msgstr "来自域名"
+
+msgid "don't show me submissions after I've voted them insightful" msgstr "我投票有见地后不要向我展示主题帖"
+
+msgid "don't show me submissions after I've voted them fun" msgstr "我投票有趣后不要向我展示主题帖"
+
+msgid "most insightful links" msgstr "最有见地的链接"
+
+msgid "most fun links" msgstr "最有趣的链接"
+
+msgid "find popular subs" msgstr "寻找热门板块"
+
+msgid "find new subs" msgstr "寻找新板块"
+
+msgid "show thumbnails next to links?" msgstr "在连接旁边显示缩略图？"
+
+msgid "use each sub's media preferences" msgstr "依据版块的媒体设置"
+
+msgid "Auto-expand media previews?" msgstr "自动展开媒体预览？"
+
+msgid "suggested sorts may be set by community moderators for specific threads or subs, like Q&As" msgstr "建议的排序方式可能会根据板主为特定的讨论串或看板而改变，例如Q&As"
+
+msgid "notify me when people say my username in comments" msgstr "当他人在评论中提到我的用户名时通知我"
+
+msgid "allow subs to show me custom themes" msgstr "允许板块对我显示自定义主题"
+
+msgid "Night mode" msgstr "晚间模式"
+
+msgid "Day mode" msgstr "日间模式"
+
+msgid "required to view some subs" msgstr "需要看一些板块"
+
+msgid "reset subscriptions" msgstr "重置订阅"
+
+msgid "enable chat" msgstr "开启聊天"
+
+msgid "default (300px)" msgstr "预设(300px)"
+
+msgid "small (380px)" msgstr "小(380px)"
+
+msgid "medium (480px)" msgstr "中(480px)"
+
+msgid "large (600px)" msgstr "大(600px)"
+
+msgid "extra large (780px)" msgstr "加大 (780px)"
+
+msgid "to view saidit with only submissions from your friends, use [/s/friends](%s)" msgstr "只看朋友的Saidit帖子，使用[/s/friends](%s)"
+
+msgid "deactivate your saidit account" msgstr "注销你的SaidIt账号"
